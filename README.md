@@ -1,4 +1,4 @@
-### Olá, eu sou a Gabriela Santana, estudante de programação!
+### Olá, eu sou a Gabi! (:
 
 - 🔭 Hoje trabalho como Analista de Atendimento JR.
 - 🌱 Estudando programação (front-end e back-end).
