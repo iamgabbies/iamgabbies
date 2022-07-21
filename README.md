@@ -1,7 +1,7 @@
 ### Olá, eu sou a Gabi! (:
 
-- 🔭 Hoje trabalho como Analista de Atendimento JR.
-- 🌱 Estudando programação (front-end e back-end).
+- 🔭 Hoje trabalho como Supervisora de Operações de JR.
+- 🌱 Estudando desenvolvimento web.
 - 😄 Pronomes: ela/dela.
 - ⚡ Curiosidades: Gosto de animes, mangás e cultura oriental.
  
