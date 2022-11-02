@@ -17,7 +17,7 @@
  
 <div>
  
- <h4>Aqui estão algumas das linguagens que eu costumo utilizar </h4> <br>
+ <h4>Linguagens que eu utilizo: </h4> <br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,7 +34,7 @@
  
 ##
   
-  <div style="display: inline_block" align="left"><br>  
+  <div style="display: inline_block" align="left">
   
    <h4> Redes Sociais onde podem me encontrar: <h4>
     
