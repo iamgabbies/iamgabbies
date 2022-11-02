@@ -15,7 +15,7 @@
 
 ##
  
-<div style="display: inline_block"><br>
+<div>
  
  <h4>Aqui estão algumas das linguagens que eu costumo utilizar </h4> <br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
